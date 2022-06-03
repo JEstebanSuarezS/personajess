@@ -1,0 +1,52 @@
+tbody{
+    color: white;
+    background-image: linear-gradient(
+        0deg,
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    )
+    ,url(https://mir-s3-cdn-cf.behance.net/project_modules/fs/7c3fa496123489.5ea7561238968.png);
+}
+
+thead{
+    color: white;
+    background: crimson;
+}
+
+body{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-image: url(https://www.revistafactum.com/wp-content/uploads/2018/05/La-Casa-de-Papel.gif);
+    background-position: center;
+}
+
+h1{
+    text-align: center;
+    color: crimson;
+}
+
+p{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#titulo{
+    background-color: rgba(30, 30, 30, 0.863);
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+#texto{
+    background-color: rgb(30,30,30, 0.863);
+    color: white;
+    padding: 40px;
+    margin: auto;
+}
+
+.color-acento{
+    color: white;
+}
+
+.color-acento2{
+    color: crimson;
+}
